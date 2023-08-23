@@ -9,3 +9,9 @@ Millena Gutemberg
 ## Projetos
 - [Boletim](https://scratch.mit.edu/projects/881969854/)
 - [Cálculo de desconto](https://scratch.mit.edu/projects/883244312/)
+- [Margem de Lucro](https://scratch.mit.edu/projects/885322460/)
+- [Conversor de Tempeatura]
+- [Conversor de Libras em Kilos]
+- [Regra de Três]
+- [Calculo do Serviço/Valor]
+  
