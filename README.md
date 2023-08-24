@@ -10,8 +10,7 @@ Millena Gutemberg
 - [Boletim](https://scratch.mit.edu/projects/881969854/)
 - [Cálculo de desconto](https://scratch.mit.edu/projects/883244312/)
 - [Margem de Lucro](https://scratch.mit.edu/projects/885322460/)
-- [Conversor de Tempeatura]
-- [Conversor de Libras em Kilos]
-- [Regra de Três]
-- [Calculo do Serviço/Valor]
+- [Conversor de Temperatura](https://scratch.mit.edu/projects/885326051/)
+- [Conversor de Libras em Kilos](https://scratch.mit.edu/projects/885346942/)
+- [Calculo do Serviço/Valor](https://scratch.mit.edu/projects/885348332/)
   
