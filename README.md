@@ -15,6 +15,7 @@ Millena Gutemberg
 - [Calculo do Serviço/Valor](https://scratch.mit.edu/projects/885348332/)
 - [Regra de Três](https://scratch.mit.edu/projects/886033332/)
 - [PDV - LOJA](https://scratch.mit.edu/projects/886033332)
+- [Etanol X Gasolina](https://scratch.mit.edu/projects/887244417/)
   
   
   
