@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/mgutemb/Scratch?style=flat-square)
-![Scratch](https://github.com/mlngutt/Scratch/blob/main/asstes/icons/scratch.ong?raw=true)
+![Scratch](https://github.com/mlngutt/Scratch/blob/main/assetes/icons/scratch.ong?raw=true)
 
 # scratch2
 Introdução a lógica de programação com o scratch
