@@ -1,4 +1,5 @@
-![GitHub](https://img.shields.io/github/license/mgutemb/Scratch?style=flat-square)
+![GitHub](https://img.shields.io/github/license/mgutemb/scratch?style=flat)
+
 
 ![Scratch](https://github.com/mgutemb/scratch/blob/main/assets/scratch.png)
 
